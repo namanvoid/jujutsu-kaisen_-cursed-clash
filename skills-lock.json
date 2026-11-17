@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "skills": {
+    "rederive": {
+      "source": "EricJujianZou/rederive",
+      "commit": "26090f357b8b971c6a958216434e17b8713cfbe4",
+      "sourceType": "github",
+      "skillPath": "skills/rederive/SKILL.md",
+      "computedHash": "cfba79bf50a1378c7187bff0c7ab2cd2f697dd831e5f2618a541a22c8868da5e"
+    }
+  }
+}
